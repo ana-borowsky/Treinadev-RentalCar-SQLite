@@ -1,6 +1,6 @@
 -- Inserting data into car brands table
 
-INSERT INTO CAR_BRAND (BRAND_NAME)
+INSERT INTO CAR_BRANDS (BRAND_NAME)
     VALUES ('Chevrolet'),
            ('Toyota'),
            ('Hyundai'),
@@ -10,7 +10,7 @@ INSERT INTO CAR_BRAND (BRAND_NAME)
            ('Honda'),
            ('Fiat');
 
-SELECT * FROM CAR_BRAND;
+SELECT * FROM CAR_BRANDS;
 
 
 

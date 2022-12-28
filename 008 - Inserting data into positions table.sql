@@ -7,6 +7,7 @@ INSERT INTO POSITIONS (DESCRIPTION)
            ('Mecânico'),
            ('Assistente Administrativo');
 
+SELECT * FROM POSITIONS;
 
 
 

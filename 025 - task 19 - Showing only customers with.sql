@@ -1,0 +1,5 @@
+-- task 19 - Showing only customers with over 2 rentals
+SELECT CUSTOMERS.NAME, COUNT(*) AS 'RENTALS'
+       FROM RENTAL JOIN CUSTOMERS ON (RENTAL.CUSTOMER_ID = CUSTOMERS.ID)
+       GROUP BY CUSTOMER_ID
+       HAVING COUNT(*) >= 2;

@@ -1,0 +1,3 @@
+-- task 23 - Showing all rentals from “2022-05-20” to a “2022-12-25”
+SELECT * FROM RENTAL
+    WHERE START_DATE BETWEEN '2022-05-20' AND '2022-12-25';

@@ -1,5 +1,4 @@
 -- Inserting data into car brands table
-
 INSERT INTO CAR_BRANDS (BRAND_NAME)
     VALUES ('Chevrolet'),
            ('Toyota'),

@@ -1,5 +1,4 @@
 -- task 17 - Showing all employees and their positions
-
 SELECT EMPLOYEES.ID,
        EMPLOYEES. NAME,
        POSITIONS.DESCRIPTION AS 'POSITION' FROM EMPLOYEES

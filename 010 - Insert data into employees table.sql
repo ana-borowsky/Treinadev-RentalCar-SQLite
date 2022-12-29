@@ -1,5 +1,4 @@
 -- Inserting data into employees table
-
 INSERT INTO EMPLOYEES (NAME, PHONE, CONTRACT_DATE, POSITION_ID)
     VALUES ('Adriana Lemes', '(11) 98789-9999', '2021-04-10', 1),
            ('Camila Soares', '(11) 92749-9599', '2008-03-25', 3),

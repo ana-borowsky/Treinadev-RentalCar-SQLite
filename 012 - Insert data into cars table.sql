@@ -1,5 +1,4 @@
 -- Insert data into cars table
-
 INSERT INTO CARS (NAME, YEAR, COLOR, KM, STATUS, BRAND_ID, MODEL_ID)
     VALUES ('Chevrolet Onix LT', 2016, 'Preto', 8000, 'Liberado', 1, 3),
            ('Hyundai HB20 1.6', 2022, 'Prata', 3000, 'Em manutenção', 3, 3),

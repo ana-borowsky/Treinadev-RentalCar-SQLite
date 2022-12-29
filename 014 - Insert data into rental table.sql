@@ -1,5 +1,4 @@
 -- Insert data into rental table
-
 INSERT INTO RENTAL (START_DATE, END_DATE, TOTAL, CUSTOMER_ID, CAR_ID, EMPLOYEE_ID)
     VALUES ('2021-04-01', '2021-04-07', 1500, 1, 1, 2),
            ('2022-05-20', '2022-05-30', 1800, 2, 1, 5),
